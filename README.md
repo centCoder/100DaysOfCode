@@ -10,18 +10,18 @@
 
 [23/1] Day 5: code commited
 
-[24/1] Day 6: upcoming
+[24/1] Day 6: failed
 
-[25/1] Day 7: requires plan
+[25/1] Day 7: on-going
 
-[26/1] ... trav: week 4 at soai tvm ...
+[26/1] ... trav: week 4 at soai tvm ... [trip cancelled]
 
-[27/1] ... trav: S.R. at Mumbai ...
+[27/1] ... trav: S.R. at Mumbai ... [trip cancelled]
 
-... days dedicated to ai ...
+... days dedicated to ai ... [siraj.wikia.com]
 
-[1/2] ... return trav to cok ...
+[1/2] ... return trav to cok ... [trip cancelled]
 
-[2/2] Scheduled commit review.
+[2/2] Scheduled commit review. [:I]
 
 [#100DaysOfCode](https://100daysofcode.com)
